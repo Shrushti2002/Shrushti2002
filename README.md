@@ -23,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Shrushti Kanoujia"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Shrushti Kanoujia" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrushtikanoujia2002&show_icons=true&locale=en&layout=compact" alt="shrushtikanoujia2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrushti2002&show_icons=true&locale=en&layout=compact" alt="shrushtikanoujia2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrushti2002&show_icons=true&locale=en" alt="Shrushtik20" /></p>
 
